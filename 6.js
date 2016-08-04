@@ -2,7 +2,7 @@
 Find the difference between the sum of the squares of the first one hundred natural numbers and the square of the sum.
 */
 
-const N = 10;
+const N = 100;
 
 //Formula: The Sum Of the First N Squares
 //(N * (N + 1) * (2N + 1)) / 6
